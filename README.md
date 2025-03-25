@@ -2,7 +2,7 @@
 
 # **Nathan Crasto**
 
-- 2nd Year Computer Science & Mathematics at the University of Auckland, New Zealand
+- Final Year Computer Science & Mathematics at the University of Auckland, New Zealand
 
                                                                 Technologies:
   
