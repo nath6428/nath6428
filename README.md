@@ -2,7 +2,7 @@
 
 # **Nathan Crasto**
 
-- Final Year Computer Science & Mathematics at the University of Auckland, New Zealand
+- Software Dev at Sharesies
 
                                                                 Technologies:
   
